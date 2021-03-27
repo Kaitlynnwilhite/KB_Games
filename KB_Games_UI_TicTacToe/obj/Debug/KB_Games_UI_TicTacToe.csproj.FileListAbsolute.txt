@@ -1,0 +1,5 @@
+C:\Users\marre\source\repos\Tict tac toe\KB_Games_UI_TicTacToe\bin\Debug\KB_Games_UI_TicTacToe.dll
+C:\Users\marre\source\repos\Tict tac toe\KB_Games_UI_TicTacToe\bin\Debug\KB_Games_UI_TicTacToe.pdb
+C:\Users\marre\source\repos\Tict tac toe\KB_Games_UI_TicTacToe\obj\Debug\KB_Games_UI_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\marre\source\repos\Tict tac toe\KB_Games_UI_TicTacToe\obj\Debug\KB_Games_UI_TicTacToe.dll
+C:\Users\marre\source\repos\Tict tac toe\KB_Games_UI_TicTacToe\obj\Debug\KB_Games_UI_TicTacToe.pdb
